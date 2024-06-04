@@ -50,11 +50,23 @@ jupyter notebook
 
 4. Open the `OOPs_Building_Classes.ipynb` notebook and run the cells to explore the concepts of building classes using OOP in Python.
 
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request or open an issue for any bugs, suggestions, or improvements.
+
+---
+
+## Acknowledgments
+
+- The developers of Jupyter Notebook for providing an interactive platform to demonstrate and learn concepts.
+- The Python community for creating and maintaining a robust ecosystem for scientific computing and education.
+
 ---
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+---
 
 # Issues:
 If you encounter any issues or have suggestions for improvement, please open an issue in the Issues section of this repository.
